@@ -5,3 +5,4 @@ i18n.t(
   'header.titles.title_a',
   2,
 );
+i18n.t('header.steps');
